@@ -1,0 +1,9 @@
+.custom-pointer {
+    cursor: pointer;
+  }
+  
+  .custom-pointer:hover {
+    cursor: pointer;
+    color: white;
+  }
+  
